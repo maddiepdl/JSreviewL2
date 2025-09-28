@@ -1,2 +1,5 @@
 # JSreviewL2
-Fortune Teller Assignment
+Fortune-Teller assignment using JavaScript functions
+
+📦 Installation
+Clone https://github.com/maddiepdl/JSreviewL2.git
