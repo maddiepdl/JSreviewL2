@@ -10,7 +10,7 @@ function fortuneTeller(name, age) {
   } else {
     nameFortune += "will encounter a once-in-a-lifetime opportunity. ";
   }
-// JS is case-sensitive so I included name.toLowerCase()
+// JS is case-sensitive so I've included name.toLowerCase()
   if (name[0].toLowerCase() === 'r') {
     nameFortune += "will be rich. ";
   }
